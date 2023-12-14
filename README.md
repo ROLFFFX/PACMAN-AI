@@ -4,7 +4,10 @@ This repository contains my implementations for the Pac-Man AI projects from UCB
 
 ## Project Overview
 ### Projects Index
-[Search Algorithms]()
+[Search Algorithms](#1-search-algorithms)
+[Multi-Agents Pacman](#2-multi-agent-pac-man)
+[GhostBusters](#3-ghostbusters)
+[Reinforcement Learning](#4-reinforcement-learning)
 
 ### 1. Search Algorithms
 
