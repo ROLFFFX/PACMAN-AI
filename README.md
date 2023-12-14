@@ -3,6 +3,8 @@
 This repository contains my implementations for the Pac-Man AI projects from UCB CS188 Intro to Artificial Intelligence course. These projects cover a range of AI concepts, from search algorithms to reinforcement learning.
 
 ## Project Overview
+### Projects Index
+[Search Algorithms]()
 
 ### 1. Search Algorithms
 
