@@ -3,11 +3,47 @@
 This repository contains my implementations for the Pac-Man AI projects from UCB CS188 Intro to Artificial Intelligence course. These projects cover a range of AI concepts, from search algorithms to reinforcement learning.
 
 ## Project Overview
-### Projects Index
-[Search Algorithms](#1-search-algorithms)<br/>
-[Multi-Agents Pacman](#2-multi-agent-pac-man)<br/>
-[GhostBusters](#3-ghostbusters)<br/>
-[Reinforcement Learning](#4-reinforcement-learning)<br/>
+
+### Index
+
+### Quick Overview of Specific Problems/Algorithms Solved:
+1. 
+Algorithms Implemented:
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Uniform-Cost Search (UCS)
+- A* Search
+Problems Solved:
+- Navigating Pac-Man through various mazes using different search strategies.
+- Finding optimal paths, collecting food efficiently, and avoiding ghosts.
+
+2.
+Algorithms Implemented:
+- Minimax
+- Expectimax
+- Alpha-Beta Pruning
+Problems Solved:
+- Developing agents for Pac-Man and ghosts in a classic game setting.
+- Adapting search algorithms for multi-agent scenarios, including adversarial search.
+
+3.
+Algorithms Implemented:
+- Bayesian Inference
+- Particle Filtering
+Problems Solved:
+- Designing Pacman agents to locate and eat invisible ghosts using sensor readings.
+- Implementing inference algorithms to track ghost movements and positions.
+
+4.
+Algorithms Implemented:
+- Value Iteration
+- Q-Learning
+- Approximate Q-Learning
+Problems Solved:
+- Applying value iteration and Q-learning to Gridworld, a Crawler robot, and Pacman.
+ Teaching agents to learn optimal behaviors through interactions with their environment.
+
+---
 
 ### 1. Search Algorithms
 
